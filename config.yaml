@@ -97,8 +97,9 @@ params:
     intro: "Hi there! I'm "
     title: "Bhumik Shah"
     #subtitle: 
-    content: "A passionate Data Analyst who loves using data to build stories and enhance products. I'm also a foodie and an avid Trekker ! I live in New Jersey, NJ"
-    image: "images/me_.jpg"
+    content: "A passionate Data Analyst who loves using data to build stories and enhance products. I'm also a foodie and an avid Trekker ! I live in New Jersey, NJ. 
+    My motto #every data has a story to tell"
+    image: images/IMG-5460.jpg
     button:
       background - color: 
       enable: true
@@ -118,7 +119,7 @@ params:
   about:
     enable: true
     title: "I'm Open to work"
-    image: "/images/me1.png"
+    image: /images/IMG-1334.jpg 
     content: |-
      Currently searching for full time opportunities 
      A Masters in Information Systems graduate with 3+ years of experience in SQL, Python, R, Big Data Tableau and Power BI . 
@@ -241,7 +242,7 @@ params:
           
           Extracurricular Activities
             - Was the Elected Cultural Club Secretary from 2019-2021
-            - Won several Photography competitions during all 4 years.
+            - Won several Photography competitions throughout.
 
   #featuredLink:
   #enable: true
@@ -261,7 +262,7 @@ params:
       - title: Event Manager at Comic-Con India
         content: Worked as a team lead handle a team of 20 to help Cosplay registration and media personnel and handling a large crowd of 5000+ people at the largest comic event in India
       - title: Animal rescue activist 
-        content: Working as an Animal rescue activist for a many years both on and off site helping on ground rescues and virtual donation drives 
+        content: Working as an Animal rescue activist for a many years both on and off site helping on ground rescues and virtual donation drives. Collabrated with multiple organizations and people Pan India to protect and increase animal welfare and provide back to community.
 
       - title: Certified AWS Cloud Practioner
         content: To gain insights and knowledge of cloud products and services of Amazon AWS and use ithem in professional and academic career.
@@ -279,7 +280,7 @@ params:
 
       - title: Churn rate detection case study using AWS , Snowflake , Tableau/Power BI
         content: Solved a Case study for a fictional telecom company Databel to detect the churn rate and churn reasons ranging the geographic location and other factors increasing the churn rate .
-        image: /images/projects/advert1.jpeg
+        image: images/projects/advert12.jpeg
         featured:
           name: Click here to know more!
           link: https://docs.google.com/presentation/d/1BqEMqAD-FUo2e7IvXX7SgG8yitriOEpN/edit?usp=sharing&ouid=115942155030052699279&rtpof=true&sd=true
@@ -293,7 +294,7 @@ params:
 
       - title: Youtube Data Analysis
         content: An analysis on structured and semi-structured YouTube videos data based on the video categories and the trending metrics
-        image: /images/projects/Colorization3.png
+        image: /images/projects/Colorization34.png
         featured:
           name: Click here to know more!
           link: https://docs.google.com/presentation/d/193X-n0sXoFbMR9dD7rxJxwM8n_GpOwNQ/edit?usp=sharing&ouid=116008293600462184270&rtpof=true&sd=true
@@ -311,7 +312,7 @@ params:
 
       - title: Euro satellite Image Classification using CNN
         content: classified 16000 satellite images of Europe from kaggle and build a model to detect images using CNN algorithm .
-        image: /images/projects/doge4.jpeg
+        image: /images/projects/doge45.jpg
         featured:
           name: Click here to know more!
           link: https://github.com/bhumik98/EUROSATCNN
